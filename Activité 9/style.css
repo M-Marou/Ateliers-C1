@@ -1,0 +1,51 @@
+ol#middlemarch :nth-child(1) {
+    color: blue;
+    font-weight: bold;
+}
+ol#middlemarch :nth-child(2) {
+    color: blue;
+}
+ol#middlemarch :nth-child(3) {
+    color:red;
+}
+#middlemarch :nth-child(4) {
+    color: red;
+}
+ol#middlemarch :nth-child(5) {
+    color: red;
+    font-style: italic;
+}
+ol#middlemarch :nth-child(6) {
+    color: red;
+}
+ol#middlemarch :nth-child(7) {
+    color: red;
+}
+ol#middlemarch :nth-child(8) {
+    color: blue;
+}
+
+#middlemarch {
+   line-height: 32px; 
+}
+
+ol#taletwocities :nth-child(1) {
+    color: red;
+    font-weight: bold;
+}
+ol#taletwocities :nth-child(2) {
+    color: red;
+}
+ol#taletwocities :nth-child(3) {
+    color: red;
+}
+ol#taletwocities :nth-child(4) {
+    color: blue;
+}
+ol#taletwocities :nth-child(5) {
+    color: blue;
+    font-style: italic;
+}
+ol#taletwocities :nth-child(6) {
+    color: blue;
+}

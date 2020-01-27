@@ -1,0 +1,25 @@
+ body {
+    font-family: Helvetica, sans-serif;
+ }
+
+ table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px;
+} 
+
+.src {
+    color: grey;
+}
+.alt {
+    color: grey;
+}
+
+th {
+    text-align: center;
+}
+
+tr {
+    line-height: 30px;
+}
+
